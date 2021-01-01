@@ -1,0 +1,45 @@
+/* // Small devices (landscape phones, 576px and up) */
+/* @media only screen and (min-width: 200px) and (max-width:991px) { 
+
+    .slider_text h3 {
+        font-size: 34px;
+    }
+
+    #slider_area {
+        background-repeat: round;
+    }
+
+    .w-50 {
+        width: 50% !important;
+    }
+    .single_box {
+        padding: 10px 138px;
+    }
+
+    .about_us .about_text h2 {
+        font-size: 35px;
+        
+    }
+
+    .about_us .about_text .count_area {
+        justify-content: center;
+    }
+    header ul li {
+        margin: 0 10px;
+    }
+    header ul li a {
+        font-size: 11px;
+    }
+    header ul li a:hover {
+        color: #ffc178;
+    }
+    .our_btn {
+        font-size: 12px;
+        padding: 10px 10px;
+    }
+
+
+ } */
+
+
+ 
